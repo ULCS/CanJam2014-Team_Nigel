@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\P3Script.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Destructable.cs" Line="22" Column="24" />
+      <File FileName="Assets\scr_Destroy.cs" Line="99" Column="5" />
+      <File FileName="Assets\Scripts\BigArrowScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\House1Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\FlightControl.cs" Line="62" Column="48" />
+      <File FileName="Assets\Scripts\P2Script.cs" Line="134" Column="23" />
+      <File FileName="Assets\Scripts\P3Script.cs" Line="39" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

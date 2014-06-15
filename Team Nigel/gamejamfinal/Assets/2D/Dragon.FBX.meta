@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 64615866d63d67f43abd37855098c177
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: B_Leg_Body
+    100004: B_Leg_Body_001
+    100006: B_Leg_Bot
+    100008: B_Leg_Bot_001
+    100010: B_Leg_Top
+    100012: B_Leg_Top_001
+    100014: //RootNode
+    100016: Dragon_Bod
+    100018: Dragon_Hea
+    100020: F_Leg_Body
+    100022: F_Leg_Body_001
+    100024: F_Leg_Bot
+    100026: F_Leg_Bot_001
+    100028: F_Leg_Up
+    100030: F_Leg_Up_001
+    100032: L_Wing_Base
+    100034: L_Wing_Base_001
+    100036: L_Wing_End
+    100038: L_Wing_End_001
+    100040: L_Wing_Mid
+    100042: L_Wing_Mid_001
+    100044: Neck
+    100046: Neck_Base
+    100048: Neck_Mid
+    100050: Neck_Top
+    100052: Tail_1
+    100054: Tail_2
+    100056: Tail_3
+    100058: Tail_4
+    100060: Tail_5
+    100062: Tummy
+    400000: Armature
+    400002: B_Leg_Body
+    400004: B_Leg_Body_001
+    400006: B_Leg_Bot
+    400008: B_Leg_Bot_001
+    400010: B_Leg_Top
+    400012: B_Leg_Top_001
+    400014: //RootNode
+    400016: Dragon_Bod
+    400018: Dragon_Hea
+    400020: F_Leg_Body
+    400022: F_Leg_Body_001
+    400024: F_Leg_Bot
+    400026: F_Leg_Bot_001
+    400028: F_Leg_Up
+    400030: F_Leg_Up_001
+    400032: L_Wing_Base
+    400034: L_Wing_Base_001
+    400036: L_Wing_End
+    400038: L_Wing_End_001
+    400040: L_Wing_Mid
+    400042: L_Wing_Mid_001
+    400044: Neck
+    400046: Neck_Base
+    400048: Neck_Mid
+    400050: Neck_Top
+    400052: Tail_1
+    400054: Tail_2
+    400056: Tail_3
+    400058: Tail_4
+    400060: Tail_5
+    400062: Tummy
+    2300000: Dragon_Hea
+    3300000: Dragon_Hea
+    4300000: Dragon_Bod
+    4300002: Dragon_Hea
+    7400000: Default Take
+    7400002: Stiff
+    9500000: //RootNode
+    13700000: Dragon_Bod
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
